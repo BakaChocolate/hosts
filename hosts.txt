@@ -3,7 +3,7 @@
 
 ::1 localhost
 
-0.0.0.0         beap.gemini.yahoo.com
+127.0.0.1         beap.gemini.yahoo.com
 127.0.0.1       2ads.co.uk
 127.0.0.1       123.fluxads.com
 127.0.0.1       189-211-177-171.static.axtel.net
@@ -13642,3 +13642,11 @@
 0.0.0.0 www.stickylogic.com
 0.0.0.0 www.winadiscount.com
 0.0.0.0 www.winaproduct.com
+0.0.0.0 presslocalhk.com
+0.0.0.0 hklocalpress.com
+0.0.0.0 local.hknews.live
+0.0.0.0 backup-lihkg.com
+0.0.0.0 news-lihkg.com
+0.0.0.0 w2.duckhk.com
+0.0.0.0 www2.iso2.cc
+0.0.0.0 6uodailynews.com
